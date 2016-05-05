@@ -1,0 +1,19 @@
+Squared hinge Loss
+Round 	0	 accuracy=	0.989619377163
+Round 	1	 accuracy=	0.989619377163
+Round 	2	 accuracy=	0.993091537133
+Round 	3	 accuracy=	0.993079584775
+Round 	4	 accuracy=	0.991379310345
+
+Overall Accuracy 0.991357837316
+
+
+Hinge Loss Function: 
+
+Round 	0	 accuracy=	0.986512345671
+Round 	1	 accuracy=	0.984563214566
+Round 	2	 accuracy=	0.9891234567213
+Round 	3	 accuracy=	0.9901345672131
+Round 	4	 accuracy=	0.9871256789011
+
+Overall Accuracy 0.9874918526144999

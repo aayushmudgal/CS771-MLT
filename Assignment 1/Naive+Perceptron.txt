@@ -1,0 +1,81 @@
+---------------------------
+---------------------------
+---------------------------
+Round 	1	 accuracy=	0.982698961938
+Round 	2	 accuracy=	0.989619377163
+Round 	3	 accuracy=	0.975778546713
+Round 	4	 accuracy=	0.993079584775
+Round 	5	 accuracy=	0.989655172414
+Round 	6	 accuracy=	0.996539792388
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.996539792388
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.993127147766
+Accuracy Perceptron + Stop-words removal + Lemmatizing  0.990319754509
+--------------------------
+---------------------------
+Round 	1	 accuracy=	0.996539792388
+Round 	2	 accuracy=	0.989619377163
+Round 	3	 accuracy=	0.996539792388
+Round 	4	 accuracy=	0.989619377163
+Round 	5	 accuracy=	0.996551724138
+Round 	6	 accuracy=	0.996539792388
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.982698961938
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.986254295533
+Accuracy Perceptron + stop-words+ tf+ lemmatizing 0.992052228265
+--------------------------
+---------------------------
+Round 	1	 accuracy=	0.989619377163
+Round 	2	 accuracy=	0.982698961938
+Round 	3	 accuracy=	0.993079584775
+Round 	4	 accuracy=	0.996539792388
+Round 	5	 accuracy=	0.993103448276
+Round 	6	 accuracy=	0.993079584775
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.975778546713
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.993127147766
+Accuracy Perceptron + stop-words+ tfidf+ lemmatizing 0.990318561334
+--------------------------
+---------------------------
+Round 	1	 accuracy=	0.996539792388
+Round 	2	 accuracy=	0.989619377163
+Round 	3	 accuracy=	1.0
+Round 	4	 accuracy=	0.996539792388
+Round 	5	 accuracy=	1.0
+Round 	6	 accuracy=	1.0
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.993079584775
+Round 	9	 accuracy=	0.98615916955
+Round 	10	 accuracy=	0.989690721649
+Accuracy Naive-Bayes + frequency of words  0.99481682303
+--------------------------
+---------------------------
+Round 	1	 accuracy=	0.993079584775
+Round 	2	 accuracy=	0.989619377163
+Round 	3	 accuracy=	0.993079584775
+Round 	4	 accuracy=	0.993079584775
+Round 	5	 accuracy=	1.0
+Round 	6	 accuracy=	1.0
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.993079584775
+Round 	9	 accuracy=	0.993079584775
+Round 	10	 accuracy=	0.989690721649
+Accuracy Naive-Bayes + Stop-words removal  0.994124781508
+--------------------------
+---------------------------
+Round 	1	 accuracy=	0.996539792388
+Round 	2	 accuracy=	0.98615916955
+Round 	3	 accuracy=	1.0
+Round 	4	 accuracy=	0.989619377163
+Round 	5	 accuracy=	1.0
+Round 	6	 accuracy=	1.0
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.993079584775
+Round 	9	 accuracy=	0.993079584775
+Round 	10	 accuracy=	0.989690721649
+Accuracy Naive-Bayes + Stop-words removal + Lemmatizing  0.994470802269
+--------------------------
+---------------------------

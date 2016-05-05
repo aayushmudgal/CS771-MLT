@@ -1,0 +1,36 @@
+Round   1        accuracy=      0.806228373702
+Round   2        accuracy=      0.778546712803
+Round   3        accuracy=      0.764705882353
+Round   4        accuracy=      0.820069204152
+Round   5        accuracy=      0.727586206897
+Round   6        accuracy=      0.892733564014
+Round   7        accuracy=      0.854671280277
+Round   8        accuracy=      0.809688581315
+Round   9        accuracy=      0.913494809689
+Round   10       accuracy=      0.862542955326
+Accuracy LDA + Stop-words removal + Lemmatizing  0.823026757053
+
+Round   1        accuracy=      0.733564013841
+Round   2        accuracy=      0.705882352941
+Round   3        accuracy=      0.865051903114
+Round   4        accuracy=      0.868512110727
+Round   5        accuracy=      0.865517241379
+Round   6        accuracy=      0.80276816609
+Round   7        accuracy=      0.771626297578
+Round   8        accuracy=      0.712802768166
+Round   9        accuracy=      0.823529411765
+Round   10       accuracy=      0.865979381443
+Accuracy LDA + stop-words+ tfidf+ lemmatizing 0.801523364704
+
+
+Round   1        accuracy=      0.813148788927
+Round   2        accuracy=      0.868512110727
+Round   3        accuracy=      0.851211072664
+Round   4        accuracy=      0.868512110727
+Round   5        accuracy=      0.910344827586
+Round   6        accuracy=      0.903114186851
+Round   7        accuracy=      0.865051903114
+Round   8        accuracy=      0.799307958478
+Round   9        accuracy=      0.878892733564
+Round   10       accuracy=      0.931271477663
+Accuracy LDA + stop-words+ tf+ lemmatizing 0.86893671703

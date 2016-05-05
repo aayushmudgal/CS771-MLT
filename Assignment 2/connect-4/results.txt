@@ -1,0 +1,17 @@
+One versus Rest
+Accuracy : 0.76865008881
+Accuracy : 0.812537004144
+Accuracy : 0.706461401821
+Accuracy : 0.761083561542
+Accuracy : 0.680704611058
+
+Final accuracy One vs Rest 0.745887333475
+
+One versus One
+Accuracy : 0.768280047365
+Accuracy : 0.809354647721
+Accuracy : 0.707571608319
+Accuracy : 0.761527644142
+Accuracy : 0.677892087928
+
+Final accuracy One-vs-One 0.744925207095

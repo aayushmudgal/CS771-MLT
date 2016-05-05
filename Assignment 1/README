@@ -1,0 +1,96 @@
+__init__.py: Q1 and Q2 : Read the main for help in running the code
+knn.py : Q3
+
+Output are to the stdout
+
+
+Fit done1
+Round 	1	 accuracy=	0.806228373702
+Corpus Starting2
+Corpus Created2
+Fiting started2
+Fit done2
+Round 	2	 accuracy=	0.778546712803
+Corpus Starting3
+Corpus Created3
+Fiting started3
+Fit done3
+Round 	3	 accuracy=	0.764705882353
+Corpus Starting4
+Corpus Created4
+Fiting started4
+Fit done4
+Round 	4	 accuracy=	0.820069204152
+Corpus Starting5
+Corpus Created5
+Fiting started5
+Fit done5
+Round 	5	 accuracy=	0.727586206897
+Corpus Starting6
+Corpus Created6
+Fiting started6
+Fit done6
+Round 	6	 accuracy=	0.892733564014
+Corpus Starting7
+Corpus Created7
+Fiting started7
+Fit done7
+Round 	7	 accuracy=	0.854671280277
+Corpus Starting8
+Corpus Created8
+Fiting started8
+Fit done8
+Round 	8	 accuracy=	0.809688581315
+Corpus Starting9
+Corpus Created9
+Fiting started9
+Fit done9
+Round 	9	 accuracy=	0.913494809689
+Corpus Starting10
+Corpus Created10
+Fiting started10
+Fit done10
+Round 	10	 accuracy=	0.862542955326
+Accuracy Naive-Bayes + Stop-words removal + Lemmatizing  0.823026757053
+
+sudo pip install -U textblob
+python -m textblob.download_corpora
+
+
+
+Perceptron + stop-words+ tfidf+ lemmatizing 
+Round 	1	 accuracy=	0.989619377163
+Round 	2	 accuracy=	0.982698961938
+Round 	3	 accuracy=	0.993079584775
+Round 	4	 accuracy=	0.996539792388
+Round 	5	 accuracy=	0.993103448276
+Round 	6	 accuracy=	0.993079584775
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.975778546713
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.993127147766
+Accuracy Perceptron + stop-words+ tfidf+ lemmatizing 0.990318561334
+
+Round 	1	 accuracy=	0.989619377163
+Round 	2	 accuracy=	0.982698961938
+Round 	3	 accuracy=	0.993079584775
+Round 	4	 accuracy=	0.996539792388
+Round 	5	 accuracy=	0.993103448276
+Round 	6	 accuracy=	0.993079584775
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.975778546713
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.993127147766
+Accuracy Naive-Bayes + Stop-words removal + Lemmatizing  0.990318561334
+
+Round 	1	 accuracy=	0.996539792388
+Round 	2	 accuracy=	0.989619377163
+Round 	3	 accuracy=	0.996539792388
+Round 	4	 accuracy=	0.989619377163
+Round 	5	 accuracy=	0.996551724138
+Round 	6	 accuracy=	0.996539792388
+Round 	7	 accuracy=	0.996539792388
+Round 	8	 accuracy=	0.982698961938
+Round 	9	 accuracy=	0.989619377163
+Round 	10	 accuracy=	0.986254295533
+Accuracy Perceptron + stop-words+ tf+ lemmatizing 0.992052228265

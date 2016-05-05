@@ -1,0 +1,21 @@
+P = L-P Norm K=K-nearest Neigbhors 
+P= 1 K= 1  Accuracy= 0.9629
+P= 2 K= 1  Accuracy= 0.9695
+P= 3 K= 1  Accuracy= 0.9714
+P= 4 K= 1  Accuracy= 0.9725
+
+P= 1 K= 2  Accuracy= 0.9541
+P= 2 K= 2  Accuracy= 0.9629
+P= 3 K= 2  Accuracy= 0.9665
+P= 4 K= 2  Accuracy= 0.9689
+
+P= 1 K= 3  Accuracy= 0.9632
+P= 2 K= 3  Accuracy= 0.9701
+P= 3 K= 3  Accuracy= 0.9717
+P= 4 K= 3  Accuracy= 0.9741
+
+P= 1 K= 4  Accuracy= 0.9606
+P= 2 K= 4  Accuracy= 0.9681
+P= 3 K= 4  Accuracy= 0.9711
+P= 4 K= 4  Accuracy= 0.9737
+
